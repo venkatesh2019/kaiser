@@ -1,6 +1,9 @@
 kaiser hospitals receiving insurance claims
 <<<<<<< HEAD
+<<<<<<< HEAD
 update  added
 =======
 oce claiming done files will send to vendor
 >>>>>>> c58e43a1a098451c3898202679ef3a8f91e54e0d
+=======
+>>>>>>> parent of c58e43a... scal.txt
